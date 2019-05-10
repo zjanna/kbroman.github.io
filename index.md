@@ -7,7 +7,7 @@ description: Joanna Zyprych-Walczak works in Biostatistics at Poznan University 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/cv_Joanna_2019.pdf">cv</a></li>
           <li><a href="https://github.com/zjanna/zjanna.github.io">github</a></li>
           
       </ul>
