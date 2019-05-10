@@ -71,8 +71,8 @@ he/him
 
         <div class="span2">
         <a href="../assets/pics/karl_2014-03-30.jpg">
-            <img src="../assets/pics/karl_2014-03-30_small.jpg"
-                  title="Karl Broman" alt="Karl Broman"/></a>
+            <img src="../assets/pics/Joanna.jpg"
+                  title="Joanna Zyprych-Walczak" alt="Joanna Zyprych-Walczak"/></a>
         </div>
     </div>
 </div>
